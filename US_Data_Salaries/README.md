@@ -6,6 +6,7 @@ Such information is readily available in the website, aggregated from 2013-2022,
 I think the trends may still fulfill the initial purpose.
 Based on this analysis, San Francisco is the city that pays most and ‘CITADEL AMERICAS LLC‘, ‘ SCRYER INC ‘ and ‘CPT GLOBAL INC ‘are 
  among the highest paying companies.</p>
+<p ><a href='DataRealtedJobs_Salary_comp.ipynb'>US ata Realted Jobs Salary</a></p>
 <p>I also surprisingly observed that job titles Data Engineer or Data Scientist earn more than Data Analyst.</p>
  <div  align="center">
   
@@ -15,7 +16,7 @@ Based on this analysis, San Francisco is the city that pays most and ‘CITADEL 
 
 <p align="center"><b>The above analysis was performed during Dec 2022</b></p>
 <br><br>
-<p align="center"><a href='DataRealtedJobs_Salary_comp.ipynb'>US ata Realted Jobs Salary</a></p>
+
 <br>
 <p>
 I believe similar analysis can be applied to any other job groups as the input data available to public. 
