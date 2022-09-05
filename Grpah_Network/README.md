@@ -11,3 +11,10 @@ to Argo-Lite website.</li>
 </ol>
 <br>
 <p><a href='Visualizing_a_graph.ipynb'>Collect data from TMDb and visualize co-actor network</a></p>
+
+
+ <div c align="center">
+  
+ <kbd><img align="center" src="constructed_grpah.jpg" /></kbd>
+
+</div>
