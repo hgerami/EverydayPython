@@ -1,3 +1,4 @@
+<h2>US Data Related Job Salaries</h2>
 <p>Adopted from an exercise from the course CSE 6040, Computational Data Analytics, I used the available data, from the website H1B Visa Salary Database., to find out how much overall data science experts get paid in US, 
 and whether their salaries vary across major cities, and which companies pays the most.</p>
 <p>Companies have submitted petitions on what base salaries they are proposing to pay, and where the workers will work. 
