@@ -4,5 +4,7 @@
 <ul>
   <li><a href='/Grpah_Network/README.md'><b>Collect data from TMDb and visualize co-actor network</b></a></li>
   <li><b>Data Related Jobs Salaries in US</b></li>
-
+  <li><b>Press Release Web Scraping with Python</b></li>
+  <li>Transfer Excel files into MySQL Database with Python</li>
+  <li><b>Opensea Web Scraping with Python</b></li>
 </ul> 
