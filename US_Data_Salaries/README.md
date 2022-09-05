@@ -12,7 +12,8 @@ Based on this analysis, San Francisco is the city that pays most and ‘CITADEL 
  <kbd><img align="center" src="US_Data_Salaries.jpg" /></kbd>
 
 </div>
-
+<br>
+<p><b>The above analysis was performed during Dec 2022</b></p>
 
 <p>
 I believe similar analysis can be applied to any other job groups as the input data available to public. 
