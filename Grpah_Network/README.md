@@ -9,3 +9,4 @@ The following steps has been undertaken into the Python code: </p>
 to Argo-Lite website.</li>
 <li> Visualizing a graph of co-actors using Argo-Lite </li>
 </ol>
+<br>
