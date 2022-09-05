@@ -7,13 +7,13 @@ I think the trends may still fulfill the initial purpose.
 Based on this analysis, San Francisco is the city that pays most and ‘CITADEL AMERICAS LLC‘, ‘ SCRYER INC ‘ and ‘CPT GLOBAL INC ‘are 
  among the highest paying companies.</p>
 <p>I also surprisingly observed that job titles Data Engineer or Data Scientist earn more than Data Analyst.</p>
- <div c align="center">
+ <div  align="center">
   
  <kbd><img align="center" src="US_Data_Salaries.jpg" /></kbd>
 
 </div>
 <br>
-<p><b>The above analysis was performed during Dec 2022</b></p>
+<p align="center"><b>The above analysis was performed during Dec 2022</b></p>
 
 <p>
 I believe similar analysis can be applied to any other job groups as the input data available to public. 
