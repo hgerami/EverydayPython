@@ -10,3 +10,4 @@ to Argo-Lite website.</li>
 <li> Visualizing a graph of co-actors using Argo-Lite </li>
 </ol>
 <br>
+<p><a href='Visualizing_a_graph.ipynb'>Collect data from TMDb and visualize co-actor network</a></p>
