@@ -6,5 +6,5 @@
   <li><a href='/US_Data_Salaries/README.md'><b>US Data Related Job Salaries</b></a></li>
   <li><b>Press Release Web Scraping with Python</b></li>
   <li><b>Transfer Excel files into MySQL Database with Python</b></li>
-  <li><b>Opensea Web Scraping with Python</b></li>
+  <li><a href='/NFT_Floor_price/README.md'><b>NFT Floor Web Scraping</b></a></li>
 </ul> 
