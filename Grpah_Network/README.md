@@ -1,5 +1,5 @@
 <h2>Collect data from TMDb and visualize co-actor network</h2>
-<p> I collected data using an API for The Movie Database (TMDb) and constructed a
+<p> Adopted from the Georgia Tech Data Visualization course that I attended in Q1 2021, I collected data using an API for The Movie Database (TMDb) and constructed a
 graph representation of this data that shows which actors have acted together in various movies, and used Argo Lite to visualize the graph. 
 The following steps has been undertaken into the Python code: </p>
 <ol>
